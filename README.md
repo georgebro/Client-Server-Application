@@ -1,7 +1,8 @@
-#The-Weather-Forecast
 #The Client-Server JAVA application
 
-#1.The client asks the server for the weather in his city
+#The-Weather-Forecast
+
+#1.The client asking to server for the weather in his city
  2.The server returns the forecast to the client
 
 #The Java client-server application using sockets and streams. 
