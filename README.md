@@ -1,4 +1,4 @@
-#The Client-Server JAVA application
+#JAVA  Client-Server-Application
 
 #The-Weather-Forecast
 
