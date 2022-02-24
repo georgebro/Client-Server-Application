@@ -1,5 +1,5 @@
 # The Weather Forecast
-# JAVA Client Server Application
+# Java Client Server Application
 
 Client asking to server for the weather in his city and server returns the forecast to the client.
 Creates two different programs that runs on different computers but at the same time works together and sending data to each other.
